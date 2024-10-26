@@ -17,7 +17,7 @@ This script automates jumping in Counter-Strike 2 (CS2), making it easier to per
 
 1. Clone the repository:
     
-    git clone https://github.com/yourusername/cs2-autojump.git
+    git clone [https://github.com/deampgen/AutoJumpCS2.git]
     cd cs2-autojump
     
 
